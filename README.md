@@ -46,7 +46,7 @@ An app that allows users to track their daily habits and goals. Users can input 
 * User can see their habits
 * User can see their streaks for each habit
 * User can see a motivtional quote
-*
+
 [Add/Remove Habits]
 * User can add/remove habits
 

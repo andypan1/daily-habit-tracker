@@ -67,8 +67,8 @@ An app that allows users to track their daily habits and goals. Users can input 
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![Untitled (Draft)-1 4](https://github.com/andypan1/daily-habit-tracker/assets/123217573/8049c280-827d-4ca2-935a-b051ebd4b7ca)
+
 
 ### [BONUS] Digital Wireframes & Mockups
 

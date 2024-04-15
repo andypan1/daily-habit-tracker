@@ -74,6 +74,9 @@ An app that allows users to track their daily habits and goals. Users can input 
 
 ### [BONUS] Interactive Prototype
 
+## Sprints
+[Sprint 1]: Set up the project and added elements on to storyboard. Next sprint, work on the implementation of the home screen. A challenge I face was setting up the necessary controllers.
+
 ## Schema 
 
 [This section will be completed in Unit 9]

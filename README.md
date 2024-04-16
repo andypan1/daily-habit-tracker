@@ -77,6 +77,9 @@ An app that allows users to track their daily habits and goals. Users can input 
 ## Sprints
 [Sprint 1]: Set up the project and added elements on to storyboard. Next sprint, work on the implementation of the home screen. A challenge I face was setting up the necessary controllers.
 
+https://github.com/andypan1/daily-habit-tracker/assets/123217573/fd9e5999-0577-451e-958b-bc5bf70091e3
+
+
 ## Schema 
 
 [This section will be completed in Unit 9]

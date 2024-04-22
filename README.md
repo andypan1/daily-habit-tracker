@@ -88,14 +88,9 @@ https://github.com/andypan1/daily-habit-tracker/assets/123217573/fd9e5999-0577-4
 
 ### Models
 
-Habits Struct:
-title
-note
-streak
+Habits Struct: title: String, note: String, streak: Int
 
-Quotes Struct:
-title
-name
+Quotes Struct: title: String, name: String
 
 ### Networking
 

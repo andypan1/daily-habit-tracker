@@ -77,6 +77,10 @@ An app that allows users to track their daily habits and goals. Users can input 
 ## Sprints
 [Sprint 1]: Set up the project and added elements on to storyboard. Next sprint, work on the implementation of the home screen. A challenge I face was setting up the necessary controllers.
 
+[Sprint 2]: Worked on API request for motivational quotes and displayed them. Next spring, add functionality for users to add tasks and see their streaks. A challenge I faced was getting the API to work as the formatting was different than other APIs I have seen.
+
+[Sprint 3]: Allow users to add tasks and display it on a tableview.
+
 https://github.com/andypan1/daily-habit-tracker/assets/123217573/fd9e5999-0577-451e-958b-bc5bf70091e3
 
 

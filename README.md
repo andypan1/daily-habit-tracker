@@ -86,14 +86,25 @@ https://github.com/andypan1/daily-habit-tracker/assets/123217573/fd9e5999-0577-4
 
 ## Schema 
 
-[This section will be completed in Unit 9]
-
 ### Models
 
-[Add table of models]
+Habits Struct:
+title
+note
+streak
+
+Quotes Struct:
+title
+name
 
 ### Networking
 
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+- Quotes API: "https://zenquotes.io/api/random"
+- Postman JSON (example) : [
+    {
+        "q": "Why live an ordinary life, when you can live an extraordinary one.",
+        "a": "Tony Robbins",
+        "h": "<blockquote>&ldquo;Why live an ordinary life, when you can live an extraordinary one.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>"
+    }
+]
+

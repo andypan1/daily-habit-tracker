@@ -9,6 +9,24 @@ import UIKit
 
 class CreateViewController: UIViewController {
 
+   
+    @IBOutlet weak var desc: UITextField!
+    @IBOutlet weak var titleLabel: UITextField!
+    
+    var onComposeHabit: ((Habits) -> Void)? = nil
+    
+    @IBAction func addHabit(_ sender: Any) {
+        guard let title = titleLabel.text, !title.isEmpty
+        else{
+            presentAlert(title: "Oops...", message: "Make sure to add a title!")
+            return
+        }
+        var habit: Habits
+        
+        habit = Habits(title: title, streak: 0)
+        onComposeHabit?(habit)
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -25,5 +43,17 @@ class CreateViewController: UIViewController {
         // Pass the selected object to the new view controller.
     }
     */
-
+    private func presentAlert(title: String, message: String) {
+        // 1.
+        let alertController = UIAlertController(
+            title: title,
+            message: message,
+            preferredStyle: .alert)
+        // 2.
+        let okAction = UIAlertAction(title: "OK", style: .default)
+        // 3.
+        alertController.addAction(okAction)
+        // 4.
+        present(alertController, animated: true)
+    }
 }

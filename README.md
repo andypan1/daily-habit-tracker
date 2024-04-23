@@ -83,6 +83,8 @@ An app that allows users to track their daily habits and goals. Users can input 
 
 https://github.com/andypan1/daily-habit-tracker/assets/123217573/fd9e5999-0577-451e-958b-bc5bf70091e3
 
+https://github.com/andypan1/daily-habit-tracker/assets/123217573/cabc00d7-5c67-4365-87a0-16f731c798ee
+
 
 ## Schema 
 
